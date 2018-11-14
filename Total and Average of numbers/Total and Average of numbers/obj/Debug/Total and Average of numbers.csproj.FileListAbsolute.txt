@@ -1,0 +1,7 @@
+D:\Uni\Programming\C#\Total and Average of numbers\Total and Average of numbers\bin\Debug\Total and Average of numbers.exe.config
+D:\Uni\Programming\C#\Total and Average of numbers\Total and Average of numbers\bin\Debug\Total and Average of numbers.exe
+D:\Uni\Programming\C#\Total and Average of numbers\Total and Average of numbers\bin\Debug\Total and Average of numbers.pdb
+D:\Uni\Programming\C#\Total and Average of numbers\Total and Average of numbers\obj\Debug\Total and Average of numbers.csprojAssemblyReference.cache
+D:\Uni\Programming\C#\Total and Average of numbers\Total and Average of numbers\obj\Debug\Total and Average of numbers.csproj.CoreCompileInputs.cache
+D:\Uni\Programming\C#\Total and Average of numbers\Total and Average of numbers\obj\Debug\Total and Average of numbers.exe
+D:\Uni\Programming\C#\Total and Average of numbers\Total and Average of numbers\obj\Debug\Total and Average of numbers.pdb
